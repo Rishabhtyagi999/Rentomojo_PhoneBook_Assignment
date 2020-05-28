@@ -86,8 +86,11 @@ Please follow these instructions:
    you need to update following code 
    
   DB_HOST=localhost
+  
   DB_DATABASE=“your database name”
+  
   DB_USERNAME=“your database user”
+  
   DB_PASSWORD=“your database password”
 
 
