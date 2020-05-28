@@ -70,7 +70,7 @@ Follow these Instruction Please:
 I have deploy my PhoneBook Application on http://provisdemo.com/phonebook/ , please  try it out there to understand the basic functionalities offered by the my application. 
 
 
-# Then If you want to Install and Run this web application on your localmachine. 
+#  If you want to Install and Run this web application on your localmachine. 
 
 Please follow these instructions:
 
