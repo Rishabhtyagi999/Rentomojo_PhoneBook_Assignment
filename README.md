@@ -1,6 +1,8 @@
 # Rentomojo_PhoneBook_Assignment
 Name : Rishabh Tyagi
+
 College : Lovely Professional University
+
 Registration No: 11713479
 
 Description About Assignment:
